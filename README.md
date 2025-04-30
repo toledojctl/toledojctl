@@ -13,14 +13,9 @@ I've been keeping infra alive 💀 Now learning how to build apps that need it.
 
 Here’s where I’m getting my hands dirty:
 
-- [`infra-lab`](https://github.com/toledojctl/infra-lab) — personal lab for infra/testing/stacks
-- [`dev-notes`](https://github.com/toledojctl/dev-notes) — study notes & resources as I learn dev
-- [`dotfiles`](https://github.com/toledojctl/dotfiles) — custom dev setup (WSL/Linux/macOS)
-
 ## 📫 Let's connect
 
 - 📧 toledojctl@gmail.com  
-- 🔗 [linkedin.com/in/toledojctl](https://linkedin.com/in/toledojctl) *(ou outro user, se preferir)*  
 - 💻 [github.com/toledojctl](https://github.com/toledojctl)
 
 ---
